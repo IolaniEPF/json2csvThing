@@ -1,0 +1,16 @@
+{ "results": [
+{
+  "desc": "superusers",
+  "isAvailable": true,
+  "createdAt": "2013-09-07T21:50:48.221Z",
+  "updatedAt": "2013-09-07T21:51:01.379Z",
+  "objectId": "3sioPa91a7"
+},
+{
+  "desc": "students",
+  "isAvailable": false,
+  "createdAt": "2013-09-07T21:50:53.230Z",
+  "updatedAt": "2013-09-07T21:52:15.824Z",
+  "objectId": "4iSlJQuMVu"
+}
+] }

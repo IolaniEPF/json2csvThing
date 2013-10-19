@@ -1,0 +1,317 @@
+{ "results": [
+{
+  "BadgeDescription": "Congratulations on signing into the EPF app! Here's a badge to get started. As you progress through the class, you'll earn these for various things you accomplish.",
+  "BadgeName": "Starting Out",
+  "Everyone": true,
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"udxI1ap5pO"}
+  ],
+  "imageFile": {
+    "__type": "File",
+    "name": "459fcbc2-3d14-496e-887d-c6d63b79f18a-Starting Out.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/459fcbc2-3d14-496e-887d-c6d63b79f18a-Starting%20Out.png"
+  },
+  "createdAt": "2013-08-31T13:48:11.659Z",
+  "updatedAt": "2013-08-31T13:49:48.621Z",
+  "objectId": "d1O5piYJzD",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "udxI1ap5pO": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"gBxYETNjx3"}
+  ],
+  "BadgeName": "test 2",
+  "imageFile": {
+    "__type": "File",
+    "name": "27226a16-2859-4618-9673-7bf99f696b32-test 2.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/27226a16-2859-4618-9673-7bf99f696b32-test%202.png"
+  },
+  "BadgeDescription": "??",
+  "Everyone": false,
+  "createdAt": "2013-09-05T07:09:01.914Z",
+  "updatedAt": "2013-09-05T07:09:01.914Z",
+  "objectId": "yNOFj4e6gN",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"gBxYETNjx3"}
+  ],
+  "BadgeName": "icon test",
+  "imageFile": {
+    "__type": "File",
+    "name": "580f8e6c-1053-48cf-9015-b7d93900d9e0-icon test.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/580f8e6c-1053-48cf-9015-b7d93900d9e0-icon%20test.png"
+  },
+  "BadgeDescription": "teddy",
+  "Everyone": false,
+  "createdAt": "2013-09-09T15:56:36.607Z",
+  "updatedAt": "2013-09-09T15:56:36.607Z",
+  "objectId": "XgpiDE39qj",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"gBxYETNjx3"},
+    {"__type":"Pointer","className":"_User","objectId":"lfSWYIa67W"},
+    {"__type":"Pointer","className":"_User","objectId":"iWwILw7Bf2"}
+  ],
+  "BadgeName": "badge test",
+  "imageFile": {
+    "__type": "File",
+    "name": "cea763e5-ced4-432f-ae45-2d00f3a3c6f1-badge test.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/cea763e5-ced4-432f-ae45-2d00f3a3c6f1-badge%20test.png"
+  },
+  "BadgeDescription": "hope this looks ok...",
+  "Everyone": false,
+  "createdAt": "2013-09-09T15:59:38.999Z",
+  "updatedAt": "2013-09-09T15:59:38.999Z",
+  "objectId": "4QedQQZHy2",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"CXuPjn97Uk"},
+    {"__type":"Pointer","className":"_User","objectId":"7L3nCQKuju"}
+  ],
+  "BadgeName": "Celebration",
+  "imageFile": {
+    "__type": "File",
+    "name": "56474a07-b5f7-43f0-9b4f-4f0adb2835d4-Celebration.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/56474a07-b5f7-43f0-9b4f-4f0adb2835d4-Celebration.png"
+  },
+  "BadgeDescription": "Thanks for singing happy birthday and helping to celebrate Dr. Lee's special day! :-)",
+  "Everyone": false,
+  "createdAt": "2013-09-10T00:28:46.052Z",
+  "updatedAt": "2013-09-10T00:28:46.052Z",
+  "objectId": "2VQ9iGxE6x",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "lfSWYIa67W": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"OulpRmIdGX"}
+  ],
+  "BadgeName": "Celebration",
+  "imageFile": {
+    "__type": "File",
+    "name": "cd6705b9-bba7-43cb-af71-2d0f29953749-Celebration.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/cd6705b9-bba7-43cb-af71-2d0f29953749-Celebration.png"
+  },
+  "BadgeDescription": "Thanks for singing happy birthday and helping to celebrate Dr. Lee's special day! :-)",
+  "Everyone": false,
+  "createdAt": "2013-09-10T00:48:40.143Z",
+  "updatedAt": "2013-09-10T00:48:40.143Z",
+  "objectId": "ObTt47z32v",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "lfSWYIa67W": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"bp45x4q0iY"}
+  ],
+  "BadgeName": "InClass Glory",
+  "imageFile": {
+    "__type": "File",
+    "name": "79689660-14f0-49ae-8eba-ceff4d7a6dfc-InClass Glory.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/79689660-14f0-49ae-8eba-ceff4d7a6dfc-InClass%20Glory.png"
+  },
+  "BadgeDescription": "For outstanding classroom participation",
+  "Everyone": false,
+  "createdAt": "2013-09-10T03:30:02.092Z",
+  "updatedAt": "2013-09-10T03:30:02.092Z",
+  "objectId": "SFTLn2A0kX",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"tWKpwia4Im"}
+  ],
+  "BadgeName": "The Innovator",
+  "imageFile": {
+    "__type": "File",
+    "name": "5c58d70e-5350-4fed-9c8f-dce6bb046b0a-The Innovator.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/5c58d70e-5350-4fed-9c8f-dce6bb046b0a-The%20Innovator.png"
+  },
+  "BadgeDescription": "For coming up with a great idea for the EPF app.",
+  "Everyone": false,
+  "createdAt": "2013-09-10T03:31:00.538Z",
+  "updatedAt": "2013-09-10T03:31:00.538Z",
+  "objectId": "mSsOadKa8L",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"x3Ji8LkAYW"}
+  ],
+  "BadgeName": "Great Classroom Participation",
+  "imageFile": {
+    "__type": "File",
+    "name": "8b1b4fee-646d-4f44-b5ef-2664ca7ec619-Great Classroom Participation.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/8b1b4fee-646d-4f44-b5ef-2664ca7ec619-Great%20Classroom%20Participation.png"
+  },
+  "BadgeDescription": "Well Done!",
+  "Everyone": false,
+  "createdAt": "2013-09-12T08:18:11.450Z",
+  "updatedAt": "2013-09-12T08:18:11.450Z",
+  "objectId": "hkExqlXVtK",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"Vs9Z0YmvtX"}
+  ],
+  "BadgeName": "Great Idea",
+  "imageFile": {
+    "__type": "File",
+    "name": "0908e4f1-d697-4130-9ee5-ef0498a51d10-Great Idea.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/0908e4f1-d697-4130-9ee5-ef0498a51d10-Great%20Idea.png"
+  },
+  "BadgeDescription": "Tx! for an idea that led to a new quest",
+  "Everyone": false,
+  "createdAt": "2013-09-26T19:35:32.375Z",
+  "updatedAt": "2013-09-26T19:35:32.375Z",
+  "objectId": "lrSEBk534E",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"p31LlRb7Uk"}
+  ],
+  "BadgeName": "Courage Under Fire",
+  "imageFile": {
+    "__type": "File",
+    "name": "42ddd3ba-2181-4cda-a081-e906dfb2c10d-Courage Under Fire.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/42ddd3ba-2181-4cda-a081-e906dfb2c10d-Courage%20Under%20Fire.png"
+  },
+  "BadgeDescription": "for cheer fests and strong morals",
+  "Everyone": false,
+  "createdAt": "2013-09-28T20:38:17.164Z",
+  "updatedAt": "2013-09-28T20:38:17.164Z",
+  "objectId": "h2CDPp9e9r",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "Recipients": [
+    {"__type":"Pointer","className":"_User","objectId":"tWKpwia4Im"}
+  ],
+  "BadgeName": "Thinking Cap",
+  "imageFile": {
+    "__type": "File",
+    "name": "65ca9a48-14f7-489e-bce5-029c0ad6f45e-Thinking Cap.png",
+    "url": "http://files.parse.com/b3ceabfb-7020-42bb-9137-8e691f431382/65ca9a48-14f7-489e-bce5-029c0ad6f45e-Thinking%20Cap.png"
+  },
+  "BadgeDescription": "Thanks for serious thinking",
+  "Everyone": false,
+  "createdAt": "2013-09-28T20:42:22.684Z",
+  "updatedAt": "2013-09-28T20:42:22.684Z",
+  "objectId": "ty42UkRdd3",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "gBxYETNjx3": {
+      "write": true,
+      "read": true
+    }
+  }
+}
+] }

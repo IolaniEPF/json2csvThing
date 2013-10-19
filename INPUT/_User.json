@@ -1,0 +1,584 @@
+{ "results": [
+{
+  "AvatarName": "UH",
+  "ClassPeriod": 9,
+  "DisplayName": "Iolani University",
+  "Superuser": false,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "BenG0WRsNc"
+  },
+  "isStudent": false,
+  "username": "School@iolani.school",
+  "createdAt": "2013-08-31T13:17:29.265Z",
+  "updatedAt": "2013-09-03T20:14:15.205Z",
+  "objectId": "tsAJGCKe4u",
+  "sessionToken": "411rvqmf7pddvask2c5pt9tty",
+  "bcryptPassword": "$2a$10$EKXQZISG8HzUD5VXqcfxZer5O8mOZ3KxC.RxC3ZW/FJFE4cOOJ3JO"
+},
+{
+  "AvatarName": "Mom and Dad",
+  "ClassPeriod": 9,
+  "DisplayName": "Mom and Dad",
+  "Superuser": false,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "PXGMAvZZ2Q"
+  },
+  "isStudent": false,
+  "username": "ParentalUnits@email.blerg",
+  "createdAt": "2013-08-31T12:51:59.189Z",
+  "updatedAt": "2013-09-02T05:17:51.328Z",
+  "objectId": "keQit2zqAC",
+  "sessionToken": "jkjwff14ux5wnaeg9butq86tf",
+  "bcryptPassword": "$2a$10$f24EL.gPr6WmGLGhIJhO8OkTS.5tjQeGcI566.wEwzooM4Mmj79.e"
+},
+{
+  "AvatarName": "The Bank",
+  "ClassPeriod": 9,
+  "DisplayName": "The Bank",
+  "Superuser": false,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "DThRSaxyhW"
+  },
+  "isStudent": false,
+  "username": "TheBank@bank.bank",
+  "createdAt": "2013-08-31T13:10:07.952Z",
+  "updatedAt": "2013-09-03T18:02:52.408Z",
+  "objectId": "DCLrBJUSUB",
+  "sessionToken": "y01l6whzck97lxoomwq0cympr",
+  "bcryptPassword": "$2a$10$fXCrBb5vi93co9htCftgr.dRuRk0a.lOVdFtrMhfoOVuGktUg.v0a"
+},
+{
+  "AvatarName": "Baddaboo",
+  "ClassPeriod": 6,
+  "DisplayName": "David Blake Tsuzaki",
+  "Superuser": true,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "BSRuoXgvkQ"
+  },
+  "username": "datsuzak@iolani.org",
+  "createdAt": "2013-09-03T02:27:34.735Z",
+  "updatedAt": "2013-09-06T22:51:30.795Z",
+  "objectId": "lfSWYIa67W",
+  "sessionToken": "9z1n0yy4h7yx2mt5pcz26pjqp",
+  "bcryptPassword": "$2a$10$wTDxxEwpXNBGg67EM0kUFe.S4.hfNIhOriFgWQ.8a/9cf43I49jie"
+},
+{
+  "DisplayName": "Summer Yamada-Scott",
+  "username": "suyamada@iolani.org",
+  "AvatarName": "Beyoncé",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "DsSGY29C4U"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T06:11:49.945Z",
+  "updatedAt": "2013-09-03T06:11:49.945Z",
+  "objectId": "p31LlRb7Uk",
+  "sessionToken": "fhmstk7tykmm5qcqefer2pqy0",
+  "bcryptPassword": "$2a$10$Nc2hv4cJl.EsVsUEIrUa2uJEclyBforjonIa0nyspBr7rFk8wZAc."
+},
+{
+  "DisplayName": "Natasha Bailey",
+  "username": "nabailey@iolani.org",
+  "AvatarName": "Ms. Bailey's da Boss",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "EjRobd7MuD"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T06:18:54.739Z",
+  "updatedAt": "2013-09-03T06:18:54.739Z",
+  "objectId": "wS4oSFWUcd",
+  "sessionToken": "l8rf9o543u5vu9w7x9sgop7yr",
+  "bcryptPassword": "$2a$10$9IhrXj.9PMQ.QotVPM0H.uO2gy0WRgiS3Lysc1sHa1fuPbXhMjig."
+},
+{
+  "AvatarName": "Doraemon",
+  "ClassPeriod": 6,
+  "DisplayName": "Blake Tsuzaki",
+  "Superuser": true,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "o5iCgVihDw"
+  },
+  "username": "blake589t@gmail.com",
+  "createdAt": "2013-09-03T07:21:09.022Z",
+  "updatedAt": "2013-09-12T14:42:04.235Z",
+  "objectId": "TH8DKsx6D6",
+  "sessionToken": "j3bec6qxpn6twxxal4j2dtx88",
+  "bcryptPassword": "$2a$10$v5hqbMa2YAXtAbhBmyxjx.hySPOQztWA57VyzeD3OXlKS7x51zasm"
+},
+{
+  "DisplayName": "Ashley Mizuo",
+  "username": "asmizuo@iolani.org",
+  "AvatarName": "Ann Shoket",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "l76VKAO9kx"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T07:58:35.994Z",
+  "updatedAt": "2013-09-03T07:58:35.994Z",
+  "objectId": "9FwZ8Zf1xq",
+  "sessionToken": "463sb5raddmm9bq6lmff54o2i",
+  "bcryptPassword": "$2a$10$v7MQfG48EMKelWuaUzPLpOfF6GJsknyJclKHcolH4Ot0669THXOrG"
+},
+{
+  "AvatarName": "koluke",
+  "ClassPeriod": 8,
+  "DisplayName": "Korry Luke",
+  "Superuser": true,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "PC9SVRUVhl"
+  },
+  "username": "koluke@iolani.org",
+  "createdAt": "2013-08-31T19:13:56.863Z",
+  "updatedAt": "2013-09-03T18:05:07.190Z",
+  "objectId": "iWwILw7Bf2",
+  "sessionToken": "epwjsxv92k50zir8rj211t58t",
+  "bcryptPassword": "$2a$10$nMg9EcPaw0vV/GA17oXjAOuNatfCx4svB.NtI8ps2vNFNsRB0m91e"
+},
+{
+  "DisplayName": "Marissa Yonamine",
+  "username": "mayonami@iolani.org",
+  "AvatarName": "CL",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "emVFOt2JyD"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:34:26.171Z",
+  "updatedAt": "2013-09-03T19:34:26.171Z",
+  "objectId": "NgvWNXg3mO",
+  "sessionToken": "2quvcsb7y5zg6lfmh5zermr6a",
+  "bcryptPassword": "$2a$10$evr489rFFacZpJZhBeSTxOpwiMHSXmiiANuSqOV/9471REoIDed6C"
+},
+{
+  "DisplayName": "Christian Isham",
+  "username": "chisham@iolani.org",
+  "AvatarName": "Antwan96734",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "dIKFzmzVD9"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:35:25.307Z",
+  "updatedAt": "2013-09-03T19:35:25.307Z",
+  "objectId": "oyg4ubnlez",
+  "sessionToken": "kzq4rwqivo0nsj8cyb0rvqacd",
+  "bcryptPassword": "$2a$10$dXOUMLn5fN2P8ydiiIea2OuJp6/ANBpIXq08Bdzw0BD26/oysMNjy"
+},
+{
+  "DisplayName": "Jase Kugiya",
+  "username": "jakugiya@iolani.org",
+  "AvatarName": "Mr. Kugiya",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "q6kOx9Xyhu"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:36:31.486Z",
+  "updatedAt": "2013-09-03T19:36:31.486Z",
+  "objectId": "tWKpwia4Im",
+  "sessionToken": "apcpvlhg3w0st3utyesf1tzg",
+  "bcryptPassword": "$2a$10$tUBy1qu1UMZqtt/fHZUqVekS9pqQsJhrEAycjt0YldtyVZ7VB5huG"
+},
+{
+  "DisplayName": "Lawrence Kim",
+  "username": "lawkim@iolani.org",
+  "AvatarName": "LK",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "6S3SATmFMM"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:41:14.199Z",
+  "updatedAt": "2013-09-03T19:41:14.199Z",
+  "objectId": "GOc3owox3g",
+  "sessionToken": "6b2lulsbf55p9tbe2q6cqo638",
+  "bcryptPassword": "$2a$10$mwIvoLtxUBQOK5IVSADWb.e49XfzLquEjhgAL.i8O6qypJYJiMhcO"
+},
+{
+  "DisplayName": "Reid Kimura",
+  "username": "reidkimu@iolani.org",
+  "AvatarName": "Pookie",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "nEi8gXJuQM"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:42:35.304Z",
+  "updatedAt": "2013-09-03T19:42:35.304Z",
+  "objectId": "B0Ppi6mxge",
+  "sessionToken": "xbzx5z8gje8bxwuchegum40yn",
+  "bcryptPassword": "$2a$10$ppO13te3cCSJEanS1l1E0uJm007.C7wzgThteNF41n9iqxKFxGmrO"
+},
+{
+  "DisplayName": "Ethan Hill",
+  "username": "ethill@iolani.org",
+  "AvatarName": "Mr.Freestyle",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "JsGJsJBgbd"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:39:35.296Z",
+  "updatedAt": "2013-09-03T19:39:35.296Z",
+  "objectId": "AoYF9PH8pO",
+  "sessionToken": "q8khaomou7sul9hj76urczdnm",
+  "bcryptPassword": "$2a$10$gYwk5Mnn7hiLvWwoiHsJ0.Tt5XiIWKS0kObuXVdoBCNGGSFyPRcmi"
+},
+{
+  "DisplayName": "Nycole Mitsuyasu",
+  "username": "nymitsuy@iolani.org",
+  "AvatarName": "Mits",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "Il1nyblX5I"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:40:09.829Z",
+  "updatedAt": "2013-09-03T19:40:09.829Z",
+  "objectId": "bp45x4q0iY",
+  "sessionToken": "waarnvbol3cdpe8y1k9izy3ix",
+  "bcryptPassword": "$2a$10$ONFos0ukhFFJfjdyZjD58er27LtagprXp3Tx4OEvE55h5BDTPUd12"
+},
+{
+  "DisplayName": "Maxwell Look",
+  "username": "malook@iolani.org",
+  "AvatarName": "Max Look",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "m2RQli040e"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:43:35.689Z",
+  "updatedAt": "2013-09-03T19:43:35.689Z",
+  "objectId": "lHQjEGdVNe",
+  "sessionToken": "acs84f1kccjbyj8dev966t2on",
+  "bcryptPassword": "$2a$10$llvnrp2LgtwDzqEGX8iSBO1wStC9nHugeHXPlqE3RJTtiETD1so5e"
+},
+{
+  "DisplayName": "Nicole Ono",
+  "username": "niono@iolani.org",
+  "AvatarName": "Nicole",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "2W4ARclkY2"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:44:38.293Z",
+  "updatedAt": "2013-09-03T19:44:38.293Z",
+  "objectId": "b585OALknR",
+  "sessionToken": "f4tc21n2y9e38q8w7059w0vrh",
+  "bcryptPassword": "$2a$10$GivKePL.uSu.vjnH/HNiWuGA5telNUeF/Hy5b9YqcyLZOK8Xy3fiy"
+},
+{
+  "DisplayName": "Tiana Koch",
+  "username": "tikoch@iolani.org",
+  "AvatarName": "Dr. Koch ",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "9sTTsWniap"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-03T19:48:22.753Z",
+  "updatedAt": "2013-09-03T19:48:22.753Z",
+  "objectId": "l8d1LATIiV",
+  "sessionToken": "451mi1hvgqeyprv04pdm643zl",
+  "bcryptPassword": "$2a$10$8lyS6gl0epDuk6YOzSbF8eFesPDUqdlS/ZZX2jCm.cvMcE2Dv3Xyu"
+},
+{
+  "DisplayName": "Max Weber",
+  "username": "maxweber@iolani.org",
+  "AvatarName": "Max",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "siLWEsJaom"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:20:31.229Z",
+  "updatedAt": "2013-09-03T20:20:31.229Z",
+  "objectId": "yHpgdorcJh",
+  "sessionToken": "7fghy3c7pw7vm6r454m900jbp",
+  "bcryptPassword": "$2a$10$dccDg54/gygiyqxThWZRBOuMb9OM3VTUSgeO7xtvYbysBTZSt.D0q"
+},
+{
+  "DisplayName": "Caleb Duhay",
+  "username": "caduhay@iolani.org",
+  "AvatarName": "The Freak",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "8W1dmH1srV"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:20:33.417Z",
+  "updatedAt": "2013-09-03T20:20:33.417Z",
+  "objectId": "PK9ULDVhHR",
+  "sessionToken": "j48djkw3h1kd767lmnt9d4ye8",
+  "bcryptPassword": "$2a$10$6k5xLrEmEPdYk3h8.Yq61uKSMyfvKM0qA.GdiM8Rm8Tu0y2SykPbu"
+},
+{
+  "DisplayName": "Arieta Augafa",
+  "username": "araugafa@iolani.org",
+  "AvatarName": "Hella Fierce",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "8dXSP9BIUh"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:20:40.290Z",
+  "updatedAt": "2013-09-03T20:20:40.290Z",
+  "objectId": "7L3nCQKuju",
+  "sessionToken": "lphfxuaaxr60kcem9vp1lnxsn",
+  "bcryptPassword": "$2a$10$ZOug5Uukv7bcrDwV0h3QPeafFV.eaLA40hT1jaxezttGtN5Cek.Gy"
+},
+{
+  "DisplayName": "Kady Matsuzaki",
+  "username": "kamatsuzak@iolani.org",
+  "AvatarName": "Kady",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "1XtlQUIYtV"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:20:57.113Z",
+  "updatedAt": "2013-09-03T20:20:57.113Z",
+  "objectId": "1kdFIOPHwZ",
+  "sessionToken": "6g0rfqq35zvoj81atwm8vdiq0",
+  "bcryptPassword": "$2a$10$0/4biG/ks0KNal1L01xssOPIM3mEfBhAuCL6T/NcHWy46EtwjkRoy"
+},
+{
+  "DisplayName": "Mi Ta",
+  "username": "mtakeda014@gmail.com",
+  "AvatarName": "Mitchell ",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "tBDAP3kuom"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:21:02.215Z",
+  "updatedAt": "2013-09-03T20:21:02.215Z",
+  "objectId": "Vs9Z0YmvtX",
+  "sessionToken": "jmz5amn5ubfac95wzbq2dl66o",
+  "bcryptPassword": "$2a$10$jb9DAVmvm8INU7RqDgS9O.oLl95C/ntvUC7I1M4hSyUMD1tgdKWtq"
+},
+{
+  "DisplayName": "Christopher Gallacher",
+  "username": "chgallac@iolani.org",
+  "AvatarName": "Chris ",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "tQpTfxyvii"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:21:02.476Z",
+  "updatedAt": "2013-09-03T20:21:02.476Z",
+  "objectId": "I0MwicoQWI",
+  "sessionToken": "bujhbaecofvwuuultoi9wy89c",
+  "bcryptPassword": "$2a$10$IZgE76EyEUrqn3pnNHyi0eFo.U6TSbmyw.rZHyJc11LO603ZchZHW"
+},
+{
+  "DisplayName": "Rachael Heller",
+  "username": "raheller@iolani.org",
+  "AvatarName": "Kusama",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "BSN3AXSGKj"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:21:43.723Z",
+  "updatedAt": "2013-09-03T20:21:43.723Z",
+  "objectId": "JqmbN7KMsp",
+  "sessionToken": "w0s6ipd5p0mzcwh5pom4vthba",
+  "bcryptPassword": "$2a$10$R7fg.cpestz6dgmxLy7gzuqCSDk8Gp/jVGbOf6m0LrL7XqPq7OVca"
+},
+{
+  "DisplayName": "Claire Furukawa",
+  "username": "clfuruka@iolani.org",
+  "AvatarName": "Claire ",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "BuLK4bhcWY"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:22:51.542Z",
+  "updatedAt": "2013-09-03T20:22:51.542Z",
+  "objectId": "Zws6qzehYT",
+  "sessionToken": "ruba50yfy1qim0vy5xh265d2o",
+  "bcryptPassword": "$2a$10$iHFPgjPe3ShWSmV.iT5Uhupk0NKCG6ChBXDX7A0QHke185ITFEVtG"
+},
+{
+  "DisplayName": "Celeste Jordan Fajardo",
+  "username": "cefajard@iolani.org",
+  "AvatarName": "Cjjj",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "eWfMGG4QZG"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:22:53.287Z",
+  "updatedAt": "2013-09-03T20:22:53.287Z",
+  "objectId": "OulpRmIdGX",
+  "sessionToken": "wxkfu4cwwbuvvp2qy3c431h9b",
+  "bcryptPassword": "$2a$10$bc4v3PW3saikWzlXRSmaI.KWbcGdQbGy6eLvh4N28KieIXRsCdXYa"
+},
+{
+  "DisplayName": "Megan Nakai",
+  "username": "menakai@iolani.org",
+  "AvatarName": "nemo ",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "jm57ELQMpU"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:24:52.419Z",
+  "updatedAt": "2013-09-03T20:24:52.419Z",
+  "objectId": "CXuPjn97Uk",
+  "sessionToken": "hlwyokt2j35f0aj3cz53jhez0",
+  "bcryptPassword": "$2a$10$qdiHkFa1WOQRCg/6z0u6Iudmd9IgKHOXdP3bPpcLcFlyBl5phOIHy"
+},
+{
+  "DisplayName": "Ryan Sato",
+  "username": "rysato@iolani.org",
+  "AvatarName": "Fire",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "AHNN39BNVn"
+  },
+  "ClassPeriod": 2,
+  "Superuser": false,
+  "createdAt": "2013-09-03T20:26:35.593Z",
+  "updatedAt": "2013-09-03T20:26:35.593Z",
+  "objectId": "l8b7z5o6JI",
+  "sessionToken": "r8tpsyr5wl7hd2ibdoff9hfa6",
+  "bcryptPassword": "$2a$10$cbZ7Rr3ZgYuIRuasAlA34uZhvEbiFK1lZNgd7yClrDFJn7bXXlM8u"
+},
+{
+  "DisplayName": "Jacy Watanabe",
+  "username": "jawatanabe@iolani.org",
+  "AvatarName": "jacy ",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "lntRcqjNQ7"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-04T15:05:29.131Z",
+  "updatedAt": "2013-09-04T15:05:29.131Z",
+  "objectId": "ArfENvlrRZ",
+  "sessionToken": "28ezvw3lmkzktltsni1h7423t",
+  "bcryptPassword": "$2a$10$97zEmPkpWw6OLhmG673poeVjto5v46Fac.BQ7zme3AHPy8Ou6jYne"
+},
+{
+  "DisplayName": "Cassandra Busekrus",
+  "username": "cabusekr@iolani.org",
+  "AvatarName": "Miss Cassie",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "ziJrxgfi4N"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-04T19:34:10.833Z",
+  "updatedAt": "2013-09-04T19:34:10.833Z",
+  "objectId": "x3Ji8LkAYW",
+  "sessionToken": "3cm0aohnfehftuv01imff1v4c",
+  "bcryptPassword": "$2a$10$RBNU1OwcZG1.qtxOznTZQOor5vUHY5oJuCFc.83s0UqCFpgT7tVqa"
+},
+{
+  "DisplayName": "Jacqueline Araki",
+  "username": "jaaraki@iolani.org",
+  "AvatarName": "Jackie A.",
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "jhqUYZKVbb"
+  },
+  "ClassPeriod": 1,
+  "Superuser": false,
+  "createdAt": "2013-09-05T08:44:52.009Z",
+  "updatedAt": "2013-09-05T08:44:52.009Z",
+  "objectId": "3hxP7Rxbdz",
+  "sessionToken": "xhv8kmchnaze03gnmu9opfmul",
+  "bcryptPassword": "$2a$10$3EvaCUJZW87Av5nfKQjIeOg2RpVsxtYFOtaPQRp9uDRQRkSU.H6YO"
+},
+{
+  "AvatarName": "Lakshmi",
+  "ClassPeriod": 8,
+  "DisplayName": "Lara Lee",
+  "Superuser": true,
+  "Balances": {
+    "__type": "Pointer",
+    "className": "Balances",
+    "objectId": "dM0oJvgm7B"
+  },
+  "isStudent": false,
+  "username": "lalee@iolani.org",
+  "createdAt": "2013-09-01T00:01:14.315Z",
+  "updatedAt": "2013-09-09T23:38:41.845Z",
+  "objectId": "gBxYETNjx3",
+  "sessionToken": "i20fmxpidzk1gyvrpdfsy65vu",
+  "bcryptPassword": "$2a$10$8z8XgnIPe62pwa79ijtoNe4xlv3uq8S6FLtU5mXx.WMdKFHc4r40a"
+}
+] }

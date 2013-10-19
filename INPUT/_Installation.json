@@ -1,0 +1,512 @@
+{ "results": [
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "bd10dea81e246bdbdbae8144b5f6cacb2fba5fe8c6249d34fc9544d03187aa8e",
+  "deviceType": "ios",
+  "installationId": "0b1aa3aa-6678-4fa6-844f-f208a8ff3009",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T02:15:30.658Z",
+  "updatedAt": "2013-10-05T00:16:07.240Z",
+  "objectId": "mgwkyfbqL3"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "1f80e841d79e1c03c459d297ab2cfa33b7e9e769a8efb1a6e2a29afab704abc0",
+  "deviceType": "ios",
+  "installationId": "32208fc9-1355-486a-b2bb-9cfff165db2d",
+  "parseVersion": "1.2.11",
+  "timeZone": "US/Pacific",
+  "createdAt": "2013-09-03T02:26:55.178Z",
+  "updatedAt": "2013-09-28T19:53:32.293Z",
+  "objectId": "7gPoPdpM5l"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "418fa1c9b9a8f52457cd162682116cfd39ee33741e7d42f5c41619762b18a7d9",
+  "deviceType": "ios",
+  "installationId": "a0d3b585-4bfc-4e4b-8718-06b31bd8734e",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-05T19:32:52.296Z",
+  "updatedAt": "2013-09-11T23:39:07.751Z",
+  "objectId": "7rwDcIzHeQ"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "23609df3d92ff95379d8b328603a8ddff15bdd153531ad5c15ba6f44592bac00",
+  "deviceType": "ios",
+  "installationId": "4a56d5e4-1cf1-43fb-b828-9f4f1feaeb1b",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T02:17:41.714Z",
+  "updatedAt": "2013-10-05T00:56:33.861Z",
+  "objectId": "XIe6f3iMsO"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "6b7ba35e6d42797ac16b56b14b75135bbfecc44f19c89fa0fd709e50e8280c41",
+  "deviceType": "ios",
+  "installationId": "3019fc5d-10f9-4c1f-b1d0-2292b2cfa552",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T03:20:33.743Z",
+  "updatedAt": "2013-10-05T00:19:46.884Z",
+  "objectId": "lRfMBdox8z"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "b80df0c6a8ccabdd0ca7e18eb8c994b95d11217f6b6561885e73d1dc8d99d0f9",
+  "deviceType": "ios",
+  "installationId": "95dbb053-fa5c-48bf-9885-3fb2534d4182",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T06:09:17.528Z",
+  "updatedAt": "2013-10-05T00:09:20.918Z",
+  "objectId": "BhZtS1wadz"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "b21a41ee6de0d287ebbb1e25b6c07a5d0faf7f1218e7c8040e2e4b624978b5c3",
+  "deviceType": "ios",
+  "installationId": "f481aace-03d3-48bf-a0c6-480e29c7db0c",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T06:14:47.510Z",
+  "updatedAt": "2013-10-04T07:26:12.229Z",
+  "objectId": "y939xE7h0R"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "7ebe99f31f7dbccfc474418545a29d751399181751558477a6c9747d835f6845",
+  "deviceType": "ios",
+  "installationId": "4744882b-8dae-4f1f-a418-6fd80ea0cf22",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T08:30:48.628Z",
+  "updatedAt": "2013-10-04T19:11:20.632Z",
+  "objectId": "DssuRFGBfx"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "85c43f80e5ffa9596c51c3b19a5674524ad6619893b8b3c103d9d264972bb1e3",
+  "deviceType": "ios",
+  "installationId": "ad14c7a8-8b91-4ba9-95b8-9e14cd106536",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T16:23:09.070Z",
+  "updatedAt": "2013-10-05T00:22:28.588Z",
+  "objectId": "qt92fjTyND"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "19cf57c6d3923f8d85376bdfa67cb476b3b7f7418a25b85458bd0571d0e396d0",
+  "deviceType": "ios",
+  "installationId": "6047180b-436d-4516-b011-ad9e1b5f59d7",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T18:33:03.871Z",
+  "updatedAt": "2013-09-11T00:11:11.166Z",
+  "objectId": "9C6FWZGpTc"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "bff505e201342335d20ac06ead49370e1b006dc1082231ac44df2e16f31882d6",
+  "deviceType": "ios",
+  "installationId": "e0d9a730-05f9-4e75-bd6b-358c49550ebb",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:30:50.044Z",
+  "updatedAt": "2013-10-04T23:39:16.560Z",
+  "objectId": "EuryKA2Q7P"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "c3ed09db6341aaabbd566e175886f24388047dae54e5e594cc092570084f8f28",
+  "deviceType": "ios",
+  "installationId": "f5240a49-961f-472c-9a39-39aa07a3ae9f",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:32:39.729Z",
+  "updatedAt": "2013-10-04T23:28:33.761Z",
+  "objectId": "ezHxLWIPSW"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "571b49430a5d7671a38434a435214fda80d0d4e710f19bd61c1248863ba5a1b9",
+  "deviceType": "ios",
+  "installationId": "fe24cbaf-5cf2-4ef8-9237-3a5a300ba240",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:33:10.241Z",
+  "updatedAt": "2013-10-03T23:42:51.734Z",
+  "objectId": "5mpOp7bcX7"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "65defc9269b53012e1d8d17eb979d8e7dea058a5d57101ad62d3621b30e1fe30",
+  "deviceType": "ios",
+  "installationId": "48f6932d-d89b-407c-9c66-c0d02d1e1b22",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:34:11.755Z",
+  "updatedAt": "2013-10-04T23:39:07.635Z",
+  "objectId": "f8w97JM8Kw"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.0",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "1df41c581683dad810f597cf59c56c181ef9b079ed25ef74e787e76cb589ebe4",
+  "deviceType": "ios",
+  "installationId": "cf0d9f4c-ef76-4281-970a-a6967228652f",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:38:18.605Z",
+  "updatedAt": "2013-09-20T17:50:57.918Z",
+  "objectId": "T5AsK7IjKL"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "577c745be37d87ea4e5c2493a701f50984e8b8347b601efc49c1c668b7bf6a03",
+  "deviceType": "ios",
+  "installationId": "786de0ee-3a6b-472a-a43e-d6da9052de92",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:40:09.628Z",
+  "updatedAt": "2013-09-10T23:57:27.000Z",
+  "objectId": "CDxyRvTzmi"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "0d16670702a8fc9c9f9ae0ca6d1d07b9f14fa2f82ca47b3d3fbc447a0ff8561c",
+  "deviceType": "ios",
+  "installationId": "4d8219cd-89ea-452f-adda-f40fd58c38b0",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:41:07.088Z",
+  "updatedAt": "2013-09-10T23:54:49.610Z",
+  "objectId": "T2RnzrPl1w"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "5632e7f2859385b4f33950ed9f7d64ad636bcf70d65e51ea026da596e12ea959",
+  "deviceType": "ios",
+  "installationId": "7a229dea-13a7-4de0-b581-0fa94b49ec93",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T19:56:07.308Z",
+  "updatedAt": "2013-10-04T00:27:58.537Z",
+  "objectId": "MJ9uM3hNzf"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "0733c3aec2010aee2e1b8e4fc9c5dd6ea30379967d5dd724c9b00e2c2d292177",
+  "deviceType": "ios",
+  "installationId": "b3204dfe-a36b-4ba6-a1b5-634a0913611a",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T20:18:15.579Z",
+  "updatedAt": "2013-10-05T00:23:13.250Z",
+  "objectId": "bDrHEnBTVX"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "361b6881eac278f8a96889e2dc1d4dee21d6e3732f9b5daff8a64d1c40ba9822",
+  "deviceType": "ios",
+  "installationId": "f892f21e-0fca-48d0-b166-4bdc7fe15c92",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T20:19:23.620Z",
+  "updatedAt": "2013-10-04T20:05:14.787Z",
+  "objectId": "xFDDK4uMaH"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "60ef2e16ce224feea242b8d7900b75ac9cdb039c0791c6ca0947a16bdf8bc304",
+  "deviceType": "ios",
+  "installationId": "b0ba70ab-f0a3-4f74-b7f2-e92bf8607b28",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-03T20:19:29.069Z",
+  "updatedAt": "2013-10-04T00:27:44.018Z",
+  "objectId": "9ADufpQeTv"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "20e41a780d62007c2683f245f64c96180252b35fd8550470ecd4698c7c122d3d",
+  "deviceType": "ios",
+  "installationId": "3e0fe9ae-5249-4fd5-b9b5-99546f9020fa",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-04T00:32:44.325Z",
+  "updatedAt": "2013-09-13T07:08:14.296Z",
+  "objectId": "TtohEiojtZ"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "05e835c883fd785b54517912d0d835b989f7ac33c4be356a483799fbeca06154",
+  "deviceType": "ios",
+  "installationId": "87080878-4fa1-4177-b1f3-0bd9c7b1782c",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-04T15:04:23.028Z",
+  "updatedAt": "2013-09-09T23:38:50.289Z",
+  "objectId": "xvCteGIxFj"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "e66cd99185cdd965c67633cb88943c88b2eb43bcd6bed1c7dbaf9c9e4946a953",
+  "deviceType": "ios",
+  "installationId": "ea4b9d20-11e6-45ae-80a1-15704951944e",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-05T08:42:54.538Z",
+  "updatedAt": "2013-10-04T23:27:56.709Z",
+  "objectId": "mo3oCiRK4j"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "8ed288f2484f36285b77f523678e3fb084124d4ad74449d05b4981d5562f3bc9",
+  "deviceType": "ios",
+  "installationId": "50b7d463-f350-406c-b806-9f28e16ad277",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-05T17:43:54.649Z",
+  "updatedAt": "2013-10-05T00:20:28.497Z",
+  "objectId": "U1VbZFPY9Y"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "4fd0379d22e70e2ccdeaaee29b61d49856452ba42a9add1447b7fb99b9ebe996",
+  "deviceType": "ios",
+  "installationId": "4bc1a579-f862-459b-822f-356a7c43f099",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-05T19:36:56.811Z",
+  "updatedAt": "2013-10-03T19:10:57.695Z",
+  "objectId": "yHmpCebRdw"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "71060fa5bd9f2ac3b95ce49fee857c99a69ea7bd8b594d5873398551d6177b60",
+  "deviceType": "ios",
+  "installationId": "d1d1e782-bab1-4213-bdbd-7d5954e86255",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-05T19:48:28.150Z",
+  "updatedAt": "2013-10-04T23:39:00.757Z",
+  "objectId": "J3dPeIfVpL"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "ff3ec31d75980be8c0e1d72ae662ca54c2cf296da29592eb3cf91c862c698af8",
+  "deviceType": "ios",
+  "installationId": "d18fc7dc-eb1a-49a9-97ec-a8ca7df2ad7b",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-05T20:23:40.669Z",
+  "updatedAt": "2013-10-04T21:41:49.368Z",
+  "objectId": "ugs8m4ceeO"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "c0ccfa39b93660751a68f8d9dde2f8df50fa13d8d636dbde11f4fc3f871e14ba",
+  "deviceType": "ios",
+  "installationId": "ffe060c8-40c9-4f51-b60d-5fb353def455",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-09-13T04:07:45.637Z",
+  "updatedAt": "2013-10-05T03:27:37.868Z",
+  "objectId": "ux2JNbpeir"
+},
+{
+  "appIdentifier": "org.iolani.Finance",
+  "appName": "Finance",
+  "appVersion": "1.1",
+  "badge": 0,
+  "channels": [
+    ""
+  ],
+  "deviceToken": "9df5d1dd11ca46bf7ab963265574399a79157a6a1cfd61d6bde4d777a2308e76",
+  "deviceType": "ios",
+  "installationId": "c7ac3acd-91e5-4315-9408-eba724cc420b",
+  "parseVersion": "1.2.11",
+  "timeZone": "Pacific/Honolulu",
+  "createdAt": "2013-10-03T16:47:09.516Z",
+  "updatedAt": "2013-10-03T23:25:40.702Z",
+  "objectId": "8kjYpOAEz9"
+}
+] }

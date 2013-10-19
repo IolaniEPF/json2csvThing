@@ -1,0 +1,18 @@
+{ "results": [
+{
+  "name": "superuser",
+  "createdAt": "2013-09-07T21:49:59.659Z",
+  "updatedAt": "2013-09-07T21:49:59.659Z",
+  "objectId": "fCP7YycaPd",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "iWwILw7Bf2": {
+      "write": true,
+      "read": true
+    }
+  }
+}
+] }

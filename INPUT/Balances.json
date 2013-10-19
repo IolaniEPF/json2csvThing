@@ -1,0 +1,468 @@
+{ "results": [
+{
+  "AvatarName": "Mom and Dad",
+  "CashBalance": 10187830,
+  "ExperiencePoints": 800,
+  "createdAt": "2013-08-31T12:53:00.158Z",
+  "updatedAt": "2013-09-27T20:09:33.737Z",
+  "objectId": "PXGMAvZZ2Q"
+},
+{
+  "AvatarName": "The Bank",
+  "CashBalance": 10322908.84,
+  "ExperiencePoints": 0,
+  "createdAt": "2013-08-31T13:10:24.958Z",
+  "updatedAt": "2013-10-01T20:01:05.518Z",
+  "objectId": "DThRSaxyhW"
+},
+{
+  "AvatarName": "Iolani University",
+  "CashBalance": 10007000.0,
+  "ExperiencePoints": 0,
+  "createdAt": "2013-08-31T13:17:58.348Z",
+  "updatedAt": "2013-09-03T19:47:21.642Z",
+  "objectId": "BenG0WRsNc"
+},
+{
+  "AvatarName": "koluke",
+  "CashBalance": 39065,
+  "ExperiencePoints": 7000,
+  "createdAt": "2013-08-31T19:13:56.473Z",
+  "updatedAt": "2013-09-13T01:06:50.825Z",
+  "objectId": "PC9SVRUVhl",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "NlDIPBoAsT": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Lakshmi",
+  "CashBalance": -693011.3400000001,
+  "ExperiencePoints": 13,
+  "createdAt": "2013-09-01T00:01:13.894Z",
+  "updatedAt": "2013-10-05T03:32:33.689Z",
+  "objectId": "dM0oJvgm7B",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    },
+    "oRXY1kjF1j": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Baddaboo",
+  "CashBalance": 45988.5,
+  "ExperiencePoints": 2000,
+  "createdAt": "2013-09-03T02:27:34.250Z",
+  "updatedAt": "2013-09-13T01:06:50.343Z",
+  "objectId": "BSRuoXgvkQ",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Beyoncé",
+  "CashBalance": 43893,
+  "ExperiencePoints": 1600,
+  "createdAt": "2013-09-03T06:11:49.558Z",
+  "updatedAt": "2013-10-05T03:32:33.077Z",
+  "objectId": "DsSGY29C4U",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Ms. Bailey's da Boss",
+  "CashBalance": 24844.260000000002,
+  "ExperiencePoints": 1810,
+  "createdAt": "2013-09-03T06:18:54.403Z",
+  "updatedAt": "2013-10-05T03:30:40.454Z",
+  "objectId": "EjRobd7MuD",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Doraemon",
+  "CashBalance": 35461.5,
+  "ExperiencePoints": 10,
+  "createdAt": "2013-09-03T07:21:08.611Z",
+  "updatedAt": "2013-09-13T01:06:51.138Z",
+  "objectId": "o5iCgVihDw",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Ann Shoket",
+  "CashBalance": 34629.18000000001,
+  "ExperiencePoints": 1756,
+  "createdAt": "2013-09-03T07:58:35.570Z",
+  "updatedAt": "2013-10-05T03:30:44.880Z",
+  "objectId": "l76VKAO9kx",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "CL",
+  "CashBalance": 69740.6,
+  "ExperiencePoints": 1949,
+  "createdAt": "2013-09-03T19:34:25.795Z",
+  "updatedAt": "2013-10-05T03:30:45.628Z",
+  "objectId": "emVFOt2JyD",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Antwan96734",
+  "CashBalance": 69315,
+  "ExperiencePoints": 690,
+  "createdAt": "2013-09-03T19:35:24.983Z",
+  "updatedAt": "2013-10-05T03:32:31.205Z",
+  "objectId": "dIKFzmzVD9",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Mr. Kugiya",
+  "CashBalance": 78520,
+  "ExperiencePoints": 1165,
+  "createdAt": "2013-09-03T19:36:31.110Z",
+  "updatedAt": "2013-10-05T03:30:43.121Z",
+  "objectId": "q6kOx9Xyhu",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Mr.Freestyle",
+  "CashBalance": 27085,
+  "ExperiencePoints": 120,
+  "createdAt": "2013-09-03T19:39:34.994Z",
+  "updatedAt": "2013-09-10T00:06:45.317Z",
+  "objectId": "JsGJsJBgbd",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Mits",
+  "CashBalance": 95960,
+  "ExperiencePoints": 975,
+  "createdAt": "2013-09-03T19:40:09.470Z",
+  "updatedAt": "2013-10-05T03:30:43.858Z",
+  "objectId": "Il1nyblX5I",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "LK",
+  "CashBalance": 22855,
+  "ExperiencePoints": 230,
+  "createdAt": "2013-09-03T19:41:13.789Z",
+  "updatedAt": "2013-09-20T19:48:45.647Z",
+  "objectId": "6S3SATmFMM",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Pookie",
+  "CashBalance": 22960,
+  "ExperiencePoints": 220,
+  "createdAt": "2013-09-03T19:42:34.940Z",
+  "updatedAt": "2013-09-13T17:22:21.307Z",
+  "objectId": "nEi8gXJuQM",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Max Look",
+  "CashBalance": 31060,
+  "ExperiencePoints": 260,
+  "createdAt": "2013-09-03T19:43:35.404Z",
+  "updatedAt": "2013-09-13T17:22:28.316Z",
+  "objectId": "m2RQli040e",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Nicole",
+  "CashBalance": 60479.880000000005,
+  "ExperiencePoints": 1435,
+  "createdAt": "2013-09-03T19:44:37.866Z",
+  "updatedAt": "2013-10-05T03:32:32.588Z",
+  "objectId": "2W4ARclkY2",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Dr. Koch ",
+  "CashBalance": 75765,
+  "ExperiencePoints": 555,
+  "createdAt": "2013-09-03T19:48:22.450Z",
+  "updatedAt": "2013-10-05T03:29:35.249Z",
+  "objectId": "9sTTsWniap",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Max",
+  "CashBalance": 69867.76000000001,
+  "ExperiencePoints": 1284,
+  "createdAt": "2013-09-03T20:20:30.929Z",
+  "updatedAt": "2013-10-05T03:30:46.195Z",
+  "objectId": "siLWEsJaom",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "The Freak",
+  "CashBalance": 74720,
+  "ExperiencePoints": 1035,
+  "createdAt": "2013-09-03T20:20:33.067Z",
+  "updatedAt": "2013-10-05T03:32:30.364Z",
+  "objectId": "8W1dmH1srV",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Kady",
+  "CashBalance": 32326.47999999999,
+  "ExperiencePoints": 1610,
+  "createdAt": "2013-09-03T20:20:56.758Z",
+  "updatedAt": "2013-10-05T03:30:42.211Z",
+  "objectId": "1XtlQUIYtV",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Chris ",
+  "CashBalance": 3012195,
+  "ExperiencePoints": 110,
+  "createdAt": "2013-09-03T20:21:01.318Z",
+  "updatedAt": "2013-09-20T18:49:09.129Z",
+  "objectId": "tQpTfxyvii",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Mitchell ",
+  "CashBalance": 31610,
+  "ExperiencePoints": 1500,
+  "createdAt": "2013-09-03T20:21:01.434Z",
+  "updatedAt": "2013-10-05T03:32:33.525Z",
+  "objectId": "tBDAP3kuom",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Kusama",
+  "CashBalance": 72360,
+  "ExperiencePoints": 1002,
+  "createdAt": "2013-09-03T20:21:43.350Z",
+  "updatedAt": "2013-10-05T03:32:29.596Z",
+  "objectId": "BSN3AXSGKj",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Claire ",
+  "CashBalance": 60090,
+  "ExperiencePoints": 1165,
+  "createdAt": "2013-09-03T20:22:51.218Z",
+  "updatedAt": "2013-10-05T03:30:41.256Z",
+  "objectId": "BuLK4bhcWY",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Cjjj",
+  "CashBalance": 74665,
+  "ExperiencePoints": 840,
+  "createdAt": "2013-09-03T20:22:52.932Z",
+  "updatedAt": "2013-10-05T03:32:29.281Z",
+  "objectId": "eWfMGG4QZG",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "nemo ",
+  "CashBalance": 77255,
+  "ExperiencePoints": 1090,
+  "createdAt": "2013-09-03T20:24:51.883Z",
+  "updatedAt": "2013-10-05T03:32:30.867Z",
+  "objectId": "jm57ELQMpU",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Fire",
+  "CashBalance": -2979320,
+  "ExperiencePoints": 1105,
+  "createdAt": "2013-09-03T20:26:35.298Z",
+  "updatedAt": "2013-10-05T03:32:28.855Z",
+  "objectId": "AHNN39BNVn",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "jacy ",
+  "CashBalance": 26760,
+  "ExperiencePoints": 320,
+  "createdAt": "2013-09-04T15:05:28.786Z",
+  "updatedAt": "2013-09-13T17:22:23.446Z",
+  "objectId": "lntRcqjNQ7",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Miss Cassie",
+  "CashBalance": 20640,
+  "ExperiencePoints": 420,
+  "createdAt": "2013-09-04T19:34:10.458Z",
+  "updatedAt": "2013-09-15T01:56:50.844Z",
+  "objectId": "ziJrxgfi4N",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Jackie A.",
+  "CashBalance": 17610,
+  "ExperiencePoints": 1740,
+  "createdAt": "2013-09-05T08:44:51.577Z",
+  "updatedAt": "2013-10-05T03:32:32.219Z",
+  "objectId": "jhqUYZKVbb",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+},
+{
+  "AvatarName": "Hella Fierce",
+  "CashBalance": 25856.300000000003,
+  "ExperiencePoints": 995,
+  "createdAt": "2013-09-03T20:20:39.967Z",
+  "updatedAt": "2013-10-05T03:32:31.793Z",
+  "objectId": "8dXSP9BIUh",
+  "ACL": {
+    "*": {
+      "write": true,
+      "read": true
+    }
+  }
+}
+] }
